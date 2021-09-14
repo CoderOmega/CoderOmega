@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CoderOmega
+- 👀 I’m interested in Computer Science, Physics, Maths, Chemistry
+- 🌱 I’m currently learning Java, C, AI and Machine Learning
+- 📫 How to reach me - pratyaysendpsnt@gmail.com
